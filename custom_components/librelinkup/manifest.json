@@ -8,5 +8,6 @@
   "documentation": "https://github.com/jrsmile/librelinkup",
   "iot_class": "cloud_polling",
   "issue_tracker": "https://github.com/jrsmile/librelinkup/issues",
+  "integration_type": "hub",
   "version": "0.0.0"
 }
