@@ -18,7 +18,7 @@ _Integration to integrate with [librelinkup][librelinkup]._
 Platform | Description
 -- | --
 `binary_sensor` | Show something `True` or `False`.
-`sensor` | Show info from blueprint API.
+`sensor` | Show info from LibreLinkUp API.
 `switch` | Switch something `True` or `False`.
 
 ## Installation

@@ -4,7 +4,7 @@ from __future__ import annotations
 from homeassistant.components.switch import SwitchEntity, SwitchEntityDescription
 
 from .const import DOMAIN
-from .coordinator import BlueprintDataUpdateCoordinator
+from .coordinator import LibreLinkUpDataUpdateCoordinator
 from .entity import LibreLinkUpEntity
 
 ENTITY_DESCRIPTIONS = (
@@ -33,7 +33,7 @@ class LibreLinkUpSwitch(LibreLinkUpEntity, SwitchEntity):
 
     def __init__(
         self,
-        coordinator: BlueprintDataUpdateCoordinator,
+        coordinator: LibreLinkUpDataUpdateCoordinator,
         entity_description: SwitchEntityDescription,
     ) -> None:
         """Initialize the switch class."""
