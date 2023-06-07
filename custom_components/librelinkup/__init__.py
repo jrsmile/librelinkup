@@ -1,7 +1,7 @@
 """Custom integration to integrate librelinkup with Home Assistant.
 
 For more details about this integration, please refer to
-https://github.com/ludeeus/librelinkup
+https://github.com/jrsmile/librelinkup
 """
 from __future__ import annotations
 
