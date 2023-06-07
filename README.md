@@ -41,7 +41,7 @@ If you want to contribute to this please read the [Contribution guidelines](CONT
 
 ***
 
-[librelinkup]: https://github.com/jrsmile/librelinkup
+[librelinkup]: https://librelinkup.com
 [buymecoffee]: https://www.buymeacoffee.com/jrsmile
 [buymecoffeebadge]: https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg?style=for-the-badge
 [commits-shield]: https://img.shields.io/github/commit-activity/y/jrsmile/librelinkup.svg?style=for-the-badge
@@ -54,6 +54,6 @@ If you want to contribute to this please read the [Contribution guidelines](CONT
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg?style=for-the-badge
 [forum]: https://community.home-assistant.io/
 [license-shield]: https://img.shields.io/github/license/jrsmile/librelinkup.svg?style=for-the-badge
-[maintenance-shield]: https://img.shields.io/badge/maintainer-Joakim%20Sørensen%20%40jrsmile-blue.svg?style=for-the-badge
+[maintenance-shield]: https://img.shields.io/badge/maintainer-Jan%20Reiss%20%40jrsmile-blue.svg?style=for-the-badge
 [releases-shield]: https://img.shields.io/github/release/jrsmile/librelinkup.svg?style=for-the-badge
 [releases]: https://github.com/jrsmile/librelinkup/releases
