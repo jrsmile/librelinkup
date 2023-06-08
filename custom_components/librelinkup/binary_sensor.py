@@ -14,7 +14,7 @@ from .entity import LibreLinkUpEntity
 ENTITY_DESCRIPTIONS = (
     BinarySensorEntityDescription(
         key="librelinkup",
-        name="LibreLinkUp Binary Sensor",
+        name="LibreLinkUp working",
         device_class=BinarySensorDeviceClass.CONNECTIVITY,
     ),
 )

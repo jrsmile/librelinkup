@@ -10,7 +10,7 @@ from .entity import LibreLinkUpEntity
 ENTITY_DESCRIPTIONS = (
     SensorEntityDescription(
         key="librelinkup",
-        name="Integration Sensor",
+        name="LibreLinkUp Bloodsugar",
         icon="mdi:format-quote-close",
     ),
 )

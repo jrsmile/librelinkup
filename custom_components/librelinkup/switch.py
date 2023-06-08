@@ -10,7 +10,7 @@ from .entity import LibreLinkUpEntity
 ENTITY_DESCRIPTIONS = (
     SwitchEntityDescription(
         key="librelinkup",
-        name="Integration Switch",
+        name="LibreLinkUp Sync",
         icon="mdi:format-quote-close",
     ),
 )
