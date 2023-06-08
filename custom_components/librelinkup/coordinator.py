@@ -32,6 +32,7 @@ class LibreLinkUpDataUpdateCoordinator(DataUpdateCoordinator):
     ) -> None:
         """Initialize."""
         self.client = client
+        self.api: LibreLinkUpApiClient = client
         super().__init__(
             hass=hass,
             logger=LOGGER,
